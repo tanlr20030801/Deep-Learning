@@ -1,4 +1,4 @@
-# Conversational-Based-Mental-Health-Chatbot
+# ELEC576 - final project
 
 # 🧠 Stress Router + Gemini Chatbot
 
